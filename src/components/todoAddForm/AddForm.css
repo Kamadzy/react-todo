@@ -1,0 +1,4 @@
+.add-form-input {
+    display: grid;
+    grid-template: 1fr / 3fr 1fr;
+}
